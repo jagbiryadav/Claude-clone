@@ -65,15 +65,15 @@ To get your free API key:
 
 1. Clone or download this repository:
 ```bash
-git clone https://github.com/your-username/claude-ui-replica.git
+git clone https://github.com/jagbiryadav/Claude-clone.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd claude-ui-replica
+cd claude clone
 ```
 
-3. Open `claude-ui-replica.html` in your web browser
+3. Open `index.html` in your web browser
 
 That's it! The application will run directly in your browser with no additional setup required.
 
@@ -111,8 +111,8 @@ You can also:
 ## Project Structure
 
 ```
-claude-ui-replica/
-├── claude-ui-replica.html    # Main HTML file with UI and embedded CSS
+claude-clone/
+├── index.html    # Main HTML file with UI and embedded CSS
 ├── claude-app.js            # JavaScript logic and functionality
 ├── images/                  # Screenshot and other images
 │   └── claude-ui-screenshot.png
@@ -121,7 +121,7 @@ claude-ui-replica/
 
 ### Key Files
 
-- **claude-ui-replica.html**: Contains the complete UI structure, styling, and layout
+- **index.html**: Contains the complete UI structure, styling, and layout
 - **claude-app.js**: Implements all application logic including:
   - Chat functionality
   - API integration
@@ -210,3 +210,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 
 ⭐ If you find this project useful, please consider giving it a star on GitHub!
+
