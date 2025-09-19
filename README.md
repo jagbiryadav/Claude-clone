@@ -1,4 +1,4 @@
-# Claude UI Replica
+# Claude Clone
 
 A fully functional web-based replica of the Claude AI chat interface with both demo mode and real API integration capabilities.
 
@@ -207,5 +207,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - LinkedIn: [@jagbir-yadav](https://www.linkedin.com/in/jagbir-yadav/)
 
 ---
+
 
 ⭐ If you find this project useful, please consider giving it a star on GitHub!
