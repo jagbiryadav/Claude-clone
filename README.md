@@ -201,7 +201,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-**Jatin** - Python & frontend Developer
+**Jagbir yadav** - Python & frontend Developer
 
 - GitHub: [@jagbiryadav](https://github.com/jagbiryadav/)
 - LinkedIn: [@jagbir-yadav](https://www.linkedin.com/in/jagbir-yadav/)
@@ -210,4 +210,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 
 ⭐ If you find this project useful, please consider giving it a star on GitHub!
+
 
